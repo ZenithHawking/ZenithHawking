@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-<img align="right" width="40%" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/3D_star_icon.svg">
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Vacation.psd.full.png">
 
 
 </div>
