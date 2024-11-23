@@ -1,6 +1,7 @@
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="40%" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Star_icon_2.svg">
+
 </div>
 
 <!--Header Name-->
@@ -21,10 +22,10 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɡs</h2> 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-</picture> -->
+</picture>
 <br />
 
 <h3 align="left">Current Learning</h3>
