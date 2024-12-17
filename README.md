@@ -6,7 +6,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Zenith! 
+# <img src="https://img.freepik.com/premium-psd/png-joyful-kawaii-anime-octopus-girl-with-octopus-tentacles-creative-chibi-sticker-collection_1020495-340230.jpg" width="30"/> ɪ'ᴍ Zenith! 
  Developer (Programmer/Application)
 <br /> 
 
