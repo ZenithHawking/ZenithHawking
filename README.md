@@ -1,6 +1,6 @@
 <!--Night Owl image-->
 <div>
-<img align="right" width="40%" src="https://img.freepik.com/free-vector/cute-octopus-eating-takoyaki-cartoon-vector-icon-illustration-animal-food-icon-concept-isolated-pr_138676-4795.jpg?t=st=1734400148~exp=1734403748~hmac=a949f8fb094f19acdc9029bb8e75ad09ad1afa44377ca8142e5a81e9285479eb&w=740">
+<img align="right" width="40%" src="asset/images/octopus.png">
 </div>
 
 <!--Header Name-->
