@@ -32,7 +32,7 @@
 
 <!--Skills Icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,vue,github,docker" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,vue,azure,git,github,docker" />
 </p>
 
 <h3 align="left">Current Learning</h3>
