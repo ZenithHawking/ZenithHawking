@@ -80,7 +80,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/tran-thanh-hai-zenith" target="_blank">
+  <a href="https://www.linkedin.com/in/zenith-hawking-hai/" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
 </div>
