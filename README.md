@@ -63,8 +63,8 @@
 <!--GitHub Stats-->
 <h2 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanhHai133&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhHai133&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenithHawking&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
