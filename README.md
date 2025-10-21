@@ -28,12 +28,15 @@
 <!-- Typing Intro -->
 <h1 align="center">
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7DB3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zenith!;Software+Engineer+%7C+.NET+%2F+ASP.NET+%2F+SQL;Clean+Architecture+%26+Microservices;Always+Learning+%F0%9F%93%9A">
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DB3FF&center=true&vCenter=true&width=720&lines=Hi%2C%20I%27m%20Zenith!;Software%20Engineer%20%7C%20.NET%20%2F%20SQL;Clean%20Architecture%20%26%20Microservices;Always%20Learning%20%F0%9F%93%9A">
+    <!-- Light mode (same content as dark) -->
     <img alt="Typing Intro"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zenith!;Software+Engineer+%7C+.NET+%2F+ASP.NET+%2F+SQL;Clean+Architecture+%26+Microservices;Always+Learning+%F0%9F%93%9A">
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=720&lines=Hi%2C%20I%27m%20Zenith!;Software%20Engineer%20%7C%20.NET%20%2F%20SQL;Clean%20Architecture%20%26%20Microservices;Always%20Learning%20%F0%9F%93%9A">
   </picture>
 </h1>
+
 
 <!-- About Me -->
 <img align="right" src="asset/images/octopus.png" alt="Octopus" width="220" />
