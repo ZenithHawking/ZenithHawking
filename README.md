@@ -1,92 +1,143 @@
-<!--Night Owl image-->
-<div>
-<img align="right" width="40%" src="asset/images/octopus.png">
-</div>
+<!-- ╔════════════════════════════════════════════════╗
+     ║           ZENITH HAWKING — PREMIUM             ║
+     ║        Software Engineer GitHub Profile        ║
+     ╚════════════════════════════════════════════════╝ -->
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Zenith! 
- Developer (Programmer/Application)
-<br /> 
+<!-- Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+I'm+Zenith!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img alt="Zenith Hero Banner"
+       src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6a11cb,100:2575fc&text=Zenith%20Hawking&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Software%20Engineer&descAlignY=58&descAlign=50&animation=fadeIn" />
+ 
 </p>
 
-<!--Start Intro-->               
-<blockquote align="left">
-  I am a Web Developer with a huge love for <strong>.NET, ASP, SQL</strong>. I enjoy building scalable and beautiful web applications.
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:haitt200456@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-haitt200456%40gmail.com-EA4335?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/zenith-hawking-hai/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zenith%20Hawking-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ZenithHawking">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZenithHawking-181717?logo=github&logoColor=white">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ZenithHawking&style=flat&label=Visitors&color=6a11cb" />
+</p>
+
+<!-- Typing Intro -->
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7DB3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zenith!;Software+Engineer+%7C+.NET+%2F+ASP.NET+%2F+SQL;Clean+Architecture+%26+Microservices;Always+Learning+%F0%9F%93%9A">
+    <img alt="Typing Intro"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zenith!;Software+Engineer+%7C+.NET+%2F+ASP.NET+%2F+SQL;Clean+Architecture+%26+Microservices;Always+Learning+%F0%9F%93%9A">
+  </picture>
+</h1>
+
+<!-- About Me -->
+<img align="right" src="asset/images/octopus.png" alt="Octopus" width="220" />
+
+<blockquote>
+  <strong>Software Engineer based in Ho Chi Minh City 🇻🇳</strong><br/>
+  Passionate about <strong>.NET, ASP.NET, and SQL</strong>, building scalable, clean, and maintainable systems — from web platforms to native applications.<br/>
+  Currently exploring <strong>Clean Architecture, Docker,</strong> and <strong>DevOps practices</strong>.
 </blockquote>
 
-- ✨ Web Developer based in Ho Chi Minh City 🇻🇳  
-- 🌱 Always learning something new. Every day is an opportunity to grow.  
-- 💁‍♂️ Currently working with ASP.NET, Vue, and SQL Server  
+- 💡 Product-oriented and detail-driven with a strong sense of usability  
+- 🌱 Constantly learning: performance, security, and modern software design  
+- 🧠 Working with: ASP.NET, SQL Server, Docker, MongoDB  
+
+<br clear="right" />
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-</picture>
-<br />
 
-<!--Skills Icons-->
+- 💡 Product-oriented and detail-driven with a strong sense of usability  
+- 🌱 Constantly learning: performance, security, and modern software design  
+- 🧠 Working with: ASP.NET, SQL Server, Docker, MongoDB  
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,vue,azure,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,linux,docker,azure,redis,mongodb,git,github,postman,html,css,js,vue,bootstrap" alt="Tech Stack Icons" />
 </p>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in .NET Framework.</li>
-  <li>Exploring advanced ASP.NET and Vue patterns.</li>
-  <li>Improving clean code practices and algorithms.</li>
+<!-- Focus / Learning -->
+<h3>🎯 Focus & Learning</h3>
+<ul>
+  <li><strong>WEB</strong> — Creating modern, scalable, and user-focused web experiences with clean structure and accessibility in mind.</li>
+  <li><strong>APPLICATION</strong> — Designing reliable and efficient desktop and cross-platform applications with strong architecture and maintainability.</li>
+  <li><strong>API</strong> — Building secure, high-performance, and well-documented interfaces that connect systems seamlessly.</li>
+  <li><strong>BACKEND</strong> — Structuring business logic and data flows with clarity, scalability, and long-term stability.</li>
+  <li><strong>DEVOPS</strong> — Focusing on automation, deployment efficiency, and continuous improvement of the development lifecycle.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-<!--   <li><a href="#">Blog Post Title 1</a></li>
-  <li><a href="#">Blog Post Title 2</a></li>
-  <li><a href="#">Blog Post Title 3</a></li> -->
-</ul>
-<br />
+
 
 ---
 
-<!--Dynamic Quote card updates every day at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=It%20is%20fine%20to%20celebrate%20success%20but%20it%20is%20more%20important%20to%20heed%20the%20lessons%20of%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Quote of the Day">
+  <a href="https://github.com/ZenithHawking/EDC.ConsolePortal.WebToWeb">
+    <img height="140" alt="WebToWeb"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithHawking&repo=EDC.ConsolePortal.WebToWeb&show_owner=true&theme=radical&border_color=6a11cb" />
+  </a>
+  <a href="https://github.com/ZenithHawking/WebToFile-Processor">
+    <img height="140" alt="WebToFile"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithHawking&repo=WebToFile-Processor&show_owner=true&theme=radical&border_color=6a11cb" />
+  </a>
 </p>
 
 ---
 
-<!--GitHub Stats-->
-<h2 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
+<!-- Quote -->
+<h2 align="center">🌟 Thought of the Day</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenithHawking&theme=radical" alt="GitHub Streak" />
+  <img alt="Quote of the Day"
+       src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=It%20is%20fine%20to%20celebrate%20success%2C%20but%20it%20is%20more%20important%20to%20heed%20the%20lessons%20of%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 
 ---
 
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-<div align="center">
-  <a href="mailto:haitt200456@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://github.com/ThanhHai133" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/zenith-hawking-hai/" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-</div>
-<br/>
-
-<!--Footer--> 
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Zenith%20says:%20Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=20" />
+  <img alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&rank_icon=github&theme=radical&border_color=6a11cb" />
+  <img alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=6a11cb" />
+</p>
+<p align="center">
+  <img alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithHawking&layout=compact&theme=radical&langs_count=8&border_color=6a11cb" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ZenithHawking&theme=github-compact&hide_border=true&area=true">
+</p>
+
+<!-- Trophies -->
+
+
+---
+
+<!-- Contact -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:haitt200456@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="42" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ZenithHawking"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="42" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zenith-hawking-hai/"><img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn"/></a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img alt="Thanks Footer"
+       src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575fc,100:6a11cb&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20" />
 </p>
