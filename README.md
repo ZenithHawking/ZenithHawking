@@ -44,7 +44,7 @@ timeline
     title Developer → Business Analyst
     2022-2025 Student : HR Management System : Loki Calendar : Old Car Service
     2025-2026 Junior at EDCTech : Data Migration : Navion : Student Marketplace
-    2026-2027 BA Transition : Requirements Analysis : Process Optimization
+    2026-2027 
 ```
 
 </div>
