@@ -4,12 +4,12 @@
 <!--                              HERO SECTION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=ZENITH+HAWKING" alt="Name" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=ZENITH+HAWKING" alt="Zenith Hawking" />
 </h1>
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Software+Engineer+→+Business+Analyst;Microservices+%7C+Clean+Architecture;Data-Driven+Problem+Solver" alt="Title" />
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Software+Engineer+to+Business+Analyst;Microservices+and+Clean+Architecture;Data-Driven+Problem+Solver" alt="Subtitle" />
 </h3>
 
 ```diff
