@@ -41,7 +41,7 @@
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','lineColor':'#f093fb'}}}%%
 timeline
-    title Developer → Business Analyst
+    title Developer - Business Analyst
     2022-2025 Student : HR Management System : Loki Calendar : Old Car Service
     2025-2026 Junior at EDCTech : Data Migration : Navion : Student Marketplace
     2026-2027 
