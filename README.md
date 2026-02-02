@@ -288,7 +288,7 @@ graph LR
 
 <br/>
 
-**💼 Currently Open For:** BA Positions • Collaboration • Consulting
+**💼 Currently Open For:** 
 
 <br/><br/>
 
