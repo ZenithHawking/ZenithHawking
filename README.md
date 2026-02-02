@@ -260,9 +260,9 @@ graph LR
 ## 📊 GITHUB STATS
 
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&theme=radical&border_color=667eea&bg_color=0d1117&title_color=f093fb&icon_color=667eea&hide_border=true" /> -->
-<img width="49%" src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=667eea&background=0d1117&ring=f093fb&fire=667eea&currStreakLabel=f093fb&hide_border=true" />
+<!-- <img width="49%" src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=667eea&background=0d1117&ring=f093fb&fire=667eea&currStreakLabel=f093fb&hide_border=true" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZenithHawking&custom_title=Contribution%20Activity&bg_color=0d1117&color=f093fb&line=667eea&point=764ba2&area_color=667eea&area=true&hide_border=true" />
 
