@@ -105,29 +105,7 @@
 
 ---
 
-<!-- Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&rank_icon=github&theme=radical&border_color=6a11cb" />
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=6a11cb" />
-</p>
-<p align="center">
-  <img alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithHawking&layout=compact&theme=radical&langs_count=8&border_color=6a11cb" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=ZenithHawking&theme=github-compact&hide_border=true&area=true">
-</p>
-
 <!-- Trophies -->
-
-
----
 
 <!-- Contact -->
 <h2 align="center">🤝 Connect With Me</h2>
