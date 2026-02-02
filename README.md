@@ -1,303 +1,146 @@
-<div align="center">
+<!-- ╔════════════════════════════════════════════════╗
+     ║           ZENITH HAWKING — PREMIUM             ║
+     ║        Software Engineer GitHub Profile        ║
+     ╚════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              HERO SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Wave Header -->
+<p align="center">
+  <img alt="Zenith Hero Banner"
+       src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6a11cb,100:2575fc&text=Zenith%20Hawking&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Software%20Engineer&descAlignY=58&descAlign=50&animation=fadeIn" />
+ 
+</p>
 
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:haitt200456@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-haitt200456%40gmail.com-EA4335?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/zenith-hawking-hai/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zenith%20Hawking-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ZenithHawking">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZenithHawking-181717?logo=github&logoColor=white">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ZenithHawking&style=flat&label=Visitors&color=6a11cb" />
+</p>
+
+<!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=ZENITH+HAWKING" alt="Zenith Hawking" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DB3FF&center=true&vCenter=true&width=720&lines=Hi%2C%20I%27m%20Zenith!;Software%20Engineer%20%7C%20.NET%20%2F%20SQL;Clean%20Architecture%20%26%20Microservices;Always%20Learning%20%F0%9F%93%9A">
+    <!-- Light mode (same content as dark) -->
+    <img alt="Typing Intro"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=720&lines=Hi%2C%20I%27m%20Zenith!;Software%20Engineer%20%7C%20.NET%20%2F%20SQL;Clean%20Architecture%20%26%20Microservices;Always%20Learning%20%F0%9F%93%9A">
+  </picture>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Software+Engineer+to+Business+Analyst;Microservices+and+Clean+Architecture;Data-Driven+Problem+Solver" alt="Subtitle" />
-</h3>
 
-```diff
-⚡ Nhanh hơn 1s cũng có thể tạo nên kỳ tích ⚡
-```
+<!-- About Me -->
+<img align="right" src="asset/images/octopus.png" alt="Octopus" width="220" />
 
-<br/>
+<blockquote>
+  <strong>Software Engineer based in Ho Chi Minh City 🇻🇳</strong><br/>
+  Passionate about <strong>.NET, ASP.NET, and SQL</strong>, building scalable, clean, and maintainable systems — from web platforms to native applications.<br/>
+  Currently exploring <strong>Clean Architecture, Docker,</strong> and <strong>DevOps practices</strong>.
+</blockquote>
 
-[![Email](https://img.shields.io/badge/📧_haitt200456@gmail.com-EA4335?style=for-the-badge)](mailto:haitt200456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Zenith_Hawking-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zenith-hawking-hai/)
-[![GitHub](https://img.shields.io/badge/🚀_@ZenithHawking-181717?style=for-the-badge)](https://github.com/ZenithHawking)
+- 💡 Product-oriented and detail-driven with a strong sense of usability  
+- 🌱 Constantly learning: performance, security, and modern software design  
+- 🧠 Working with: ASP.NET, SQL Server, Docker, MongoDB  
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZenithHawking&style=for-the-badge&color=667eea)
-
-</div>
+<br clear="right" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         CAREER TIMELINE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🎯 CAREER JOURNEY
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','lineColor':'#f093fb'}}}%%
-timeline
-    title Developer - Business Analyst
-    2022-2025 Student : HR Management System : Loki Calendar : Old Car Service
-    2025-2026 Junior at EDCTech : Data Migration : Navion : Student Marketplace
-    2026-2027 
-```
-
-</div>
+- 💡 Product-oriented and detail-driven with a strong sense of usability  
+- 🌱 Constantly learning: performance, security, and modern software design  
+- 🧠 Working with: ASP.NET, SQL Server, Docker, MongoDB  
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Tech Stack -->
+<h2 align="center">🧰 Tech Stack</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,linux,docker,azure,redis,mongodb,git,github,postman,html,css,js,vue,bootstrap" alt="Tech Stack Icons" />
+</p>
 
-<div align="center">
+<!-- Focus / Learning -->
+<h3>🎯 Focus & Learning</h3>
+<ul>
+  <li><strong>WEB</strong> — Creating modern, scalable, and user-focused web experiences with clean structure and accessibility in mind.</li>
+  <li><strong>APPLICATION</strong> — Designing reliable and efficient desktop and cross-platform applications with strong architecture and maintainability.</li>
+  <li><strong>API</strong> — Building secure, high-performance, and well-documented interfaces that connect systems seamlessly.</li>
+  <li><strong>BACKEND</strong> — Structuring business logic and data flows with clarity, scalability, and long-term stability.</li>
+  <li><strong>DEVOPS</strong> — Focusing on automation, deployment efficiency, and continuous improvement of the development lifecycle.</li>
+</ul>
 
-## 🛠️ TECH STACK
-
-<table>
-<tr>
-  <td align="center" width="25%">
-    <b>⚙️ Backend</b><br/><br/>
-    <code>.NET Core</code><br/>
-    <code>ASP.NET</code><br/>
-    <code>Laravel</code><br/>
-    <code>C#</code>
-  </td>
-  <td align="center" width="25%">
-    <b>🎨 Frontend</b><br/><br/>
-    <code>Vue.js</code><br/>
-    <code>Blazor</code><br/>
-    <code>HTML/CSS</code><br/>
-    <code>JavaScript</code>
-  </td>
-  <td align="center" width="25%">
-    <b>💾 Database</b><br/><br/>
-    <code>MongoDB</code><br/>
-    <code>SQL Server</code><br/>
-    <code>Redis</code><br/>
-    <code>PostgreSQL</code>
-  </td>
-  <td align="center" width="25%">
-    <b>🔧 DevOps</b><br/><br/>
-    <code>Docker</code><br/>
-    <code>Git/GitHub</code><br/>
-    <code>Linux</code><br/>
-    <code>Azure</code>
-  </td>
-</tr>
-</table>
-
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS PORTFOLIO                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 PORTFOLIO
-
-</div>
-
-<br/>
-
-### 📦 Personal Products
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏪 Hoa Vân Nhựa
-**E-commerce platform for plastic materials**
-
-- 🏗️ Microservices Architecture
-- 💻 ASP.NET Core + Vue.js + MongoDB
-- ✨ Product catalog, orders, payments, admin dashboard
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 IHateHTML
-**Universal file-to-HTML converter**
-
-- 🔄 Multi-format conversion to clean HTML/CSS
-- 💻 Blazor WebAssembly + ASP.NET Core
-- ✨ Drag-drop, real-time preview, batch processing
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🌐 Open Source
-
-<div align="center">
-
-<a href="https://github.com/ZenithHawking/schools-api">
-  <img src="https://img.shields.io/badge/🏫_Schools_API-View_Repository-667eea?style=for-the-badge" alt="Schools API" />
-</a>
-
-<br/><br/>
-
-**Free API for Vietnam school information** • RESTful • 500+ schools • <100ms response
-
-</div>
-
-<br/>
-
-### 🏢 Company Projects
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-**🔄 Data Migration**
-
-Developer & PM
-
-Multi-platform e-commerce migration
-
-<br/>
-
-`WordPress` `Haravan` `Nhanh` `Sapo`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**⚡ Navion**
-
-Developer
-
-Enterprise solution platform
-
-<br/>
-
-`Feature Dev` `Deployment` `Integration`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🎓 Student Marketplace**
-
-Full-Stack Developer
-
-Campus e-commerce platform
-
-<br/>
-
-`Blazor` `Registration` `Email System`
-
-</td>
-</tr>
-</table>
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/ZenithHawking/EDC.ConsolePortal.WebToWeb">
+    <img height="140" alt="WebToWeb"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithHawking&repo=EDC.ConsolePortal.WebToWeb&show_owner=true&theme=radical&border_color=6a11cb" />
+  </a>
+  <a href="https://github.com/ZenithHawking/WebToFile-Processor">
+    <img height="140" alt="WebToFile"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=ZenithHawking&repo=WebToFile-Processor&show_owner=true&theme=radical&border_color=6a11cb" />
+  </a>
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      BA TRANSITION                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🎯 TRANSITIONING TO BUSINESS ANALYST
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Why BA?
-
-- ✅ Bridge technical & business teams
-- ✅ Leverage dev background for better requirements
-- ✅ Data-driven decision making
-- ✅ Process optimization & innovation
-
-</td>
-<td width="50%" valign="top">
-
-### Current Focus
-
-- 📊 Data analysis & visualization
-- 📋 Requirements gathering & documentation
-- 🗣️ Stakeholder management
-- 🎯 Business process modeling
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-```mermaid
-graph LR
-    A[Technical<br/>Expertise] --> D[Effective<br/>BA]
-    B[Domain<br/>Knowledge] --> D
-    C[Communication<br/>Skills] --> D
-    D --> E[Bridge Tech<br/>& Business]
-    D --> F[Data-Driven<br/>Decisions]
-    
-    style D fill:#667eea,stroke:#f093fb,stroke-width:3px,color:#fff
-```
-
-</div>
+<!-- Quote -->
+<h2 align="center">🌟 Thought of the Day</h2>
+<p align="center">
+  <img alt="Quote of the Day"
+       src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=It%20is%20fine%20to%20celebrate%20success%2C%20but%20it%20is%20more%20important%20to%20heed%20the%20lessons%20of%20failure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&rank_icon=github&theme=radical&border_color=6a11cb" />
+  <img alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=6a11cb" />
+</p>
+<p align="center">
+  <img alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithHawking&layout=compact&theme=radical&langs_count=8&border_color=6a11cb" />
+</p>
 
-<div align="center">
+<!-- Activity Graph -->
+<p align="center">
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ZenithHawking&theme=github-compact&hide_border=true&area=true">
+</p>
 
-## 📊 GITHUB STATS
+<!-- Trophies -->
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZenithHawking&show_icons=true&theme=radical&border_color=667eea&bg_color=0d1117&title_color=f093fb&icon_color=667eea&hide_border=true" /> -->
-<!-- <img width="49%" src="https://streak-stats.demolab.com?user=ZenithHawking&theme=radical&border=667eea&background=0d1117&ring=f093fb&fire=667eea&currStreakLabel=f093fb&hide_border=true" /> -->
-
-<!-- <br/><br/> -->
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZenithHawking&custom_title=Contribution%20Activity&bg_color=0d1117&color=f093fb&line=667eea&point=764ba2&area_color=667eea&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           CONNECT                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🤝 LET'S CONNECT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F093FB&center=true&width=600&lines=Open+to+BA+opportunities+and+collaboration;Let's+build+something+amazing!" />
-
-<br/><br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haitt200456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenith-hawking-hai/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZenithHawking)
-
-<br/>
-
-**💼 Currently Open For:** 
-
-<br/><br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontAlignY=70" />
+<!-- Contact -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:haitt200456@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="42" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ZenithHawking"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="42" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zenith-hawking-hai/"><img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn"/></a>
+</p>
 
-<br/>
-
-<sub>💙 Crafted by Zenith Hawking • Updated Jan 2026</sub>
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img alt="Thanks Footer"
+       src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575fc,100:6a11cb&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20" />
+</p>
