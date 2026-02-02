@@ -55,13 +55,6 @@
 
 ---
 
-
-- 💡 Product-oriented and detail-driven with a strong sense of usability  
-- 🌱 Constantly learning: performance, security, and modern software design  
-- 🧠 Working with: ASP.NET, SQL Server, Docker, MongoDB  
-
----
-
 <!-- Tech Stack -->
 <h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
